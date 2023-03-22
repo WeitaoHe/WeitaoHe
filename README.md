@@ -2,17 +2,7 @@
 </div>  
   
 
-### <div align="center">Here is my [personal website](walton.host)</div>  
-  
-
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-
+### <div align="center">Here is my [personal website](http://www.walton.host)</div>  
 
 
 ## Connect with me  

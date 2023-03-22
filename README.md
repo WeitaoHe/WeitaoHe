@@ -9,8 +9,9 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [R与Rstudio的基本设置](https://walton.host/article/R-001)
+- [油猴的安装与常用插件](https://walton.host/article/Tampermonkey-001)
 - [R语言数据处理常用代码](https://walton.host/article/R-002)
+- [R与Rstudio的基本设置](https://walton.host/article/R-001)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  

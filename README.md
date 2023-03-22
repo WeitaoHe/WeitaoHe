@@ -10,6 +10,7 @@
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
 - [R与Rstudio的基本设置](https://walton.host/article/R-001)
+- [R语言数据处理常用代码](https://walton.host/article/R-002)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
